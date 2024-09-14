@@ -1,6 +1,6 @@
 # AI Insights by Deep Vertical AI
 
-This repository contains a collection of cutting-edge AI insights and components developed at Deep Vertical AI. Our work focuses on leveraging state-of-the-art language models, retrieval-augmented generation, and AI agents to create powerful enterprise solutions.
+This repository contains the cutting-edge AI insights we publish on [our website](https://deepvertical.ai/insights) based on components developed at Deep Vertical AI. Our work focuses on leveraging state-of-the-art language models, retrieval-augmented generation, and AI agents to create powerful enterprise solutions.
 
 ## Featured Insights
 
